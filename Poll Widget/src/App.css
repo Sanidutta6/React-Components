@@ -1,0 +1,40 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+}
+.poll {
+  border: 2px solid slateblue;
+  padding: 2rem;
+}
+.poll-question {
+  text-align: left;
+  font-size: larger;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.poll-option {
+  margin-bottom: 0.5rem;
+}
+
+.poll-option__textSection {
+  padding: 0 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.poll-option__progressContainer {
+  position: relative;
+  height: 1rem;
+  width: 100%;
+  border: 1px solid wheat;
+  border-radius: 5px;
+}
+
+.poll-option__progress {
+  position: absolute;
+  background-color: blueviolet;
+  width: 100%;
+  height: 100%;
+}
