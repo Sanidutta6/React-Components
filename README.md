@@ -2,3 +2,6 @@
 
 - Poll Widget
 - Quiz App
+- Progress Bar
+- Password Generator
+- Pagination
