@@ -5,3 +5,4 @@
 - Progress Bar
 - Password Generator
 - Pagination
+- Accordian
