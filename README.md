@@ -6,3 +6,4 @@
 - Password Generator
 - Pagination
 - Accordian
+- DataTable

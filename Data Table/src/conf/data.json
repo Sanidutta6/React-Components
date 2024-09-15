@@ -1,0 +1,804 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Essence Mascara Lash Princess",
+            "category": "beauty",
+            "price": 9.99,
+            "discountPercentage": 7.17,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 2,
+            "title": "Eyeshadow Palette with Mirror",
+            "category": "beauty",
+            "price": 19.99,
+            "discountPercentage": 5.5,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 3,
+            "title": "Powder Canister",
+            "category": "beauty",
+            "price": 14.99,
+            "discountPercentage": 18.14,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 4,
+            "title": "Red Lipstick",
+            "category": "beauty",
+            "price": 12.99,
+            "discountPercentage": 19.03,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 5,
+            "title": "Red Nail Polish",
+            "category": "beauty",
+            "price": 8.99,
+            "discountPercentage": 2.46,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 6,
+            "title": "Calvin Klein CK One",
+            "category": "fragrances",
+            "price": 49.99,
+            "discountPercentage": 0.32,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 7,
+            "title": "Chanel Coco Noir Eau De",
+            "category": "fragrances",
+            "price": 129.99,
+            "discountPercentage": 18.64,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 8,
+            "title": "Dior J'adore",
+            "category": "fragrances",
+            "price": 89.99,
+            "discountPercentage": 17.44,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 9,
+            "title": "Dolce Shine Eau de",
+            "category": "fragrances",
+            "price": 69.99,
+            "discountPercentage": 11.47,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 10,
+            "title": "Gucci Bloom Eau de",
+            "category": "fragrances",
+            "price": 79.99,
+            "discountPercentage": 8.9,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 11,
+            "title": "Annibale Colombo Bed",
+            "category": "furniture",
+            "price": 1899.99,
+            "discountPercentage": 0.29,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 12,
+            "title": "Annibale Colombo Sofa",
+            "category": "furniture",
+            "price": 2499.99,
+            "discountPercentage": 18.54,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 13,
+            "title": "Bedside Table African Cherry",
+            "category": "furniture",
+            "price": 299.99,
+            "discountPercentage": 9.58,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 14,
+            "title": "Knoll Saarinen Executive Conference Chair",
+            "category": "furniture",
+            "price": 499.99,
+            "discountPercentage": 15.23,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 15,
+            "title": "Wooden Bathroom Sink With Mirror",
+            "category": "furniture",
+            "price": 799.99,
+            "discountPercentage": 11.22,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 16,
+            "title": "Apple",
+            "category": "groceries",
+            "price": 1.99,
+            "discountPercentage": 1.97,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 17,
+            "title": "Beef Steak",
+            "category": "groceries",
+            "price": 12.99,
+            "discountPercentage": 17.99,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 18,
+            "title": "Cat Food",
+            "category": "groceries",
+            "price": 8.99,
+            "discountPercentage": 9.57,
+            "warrantyInformation": "3 months warranty"
+        },
+        {
+            "id": 19,
+            "title": "Chicken Meat",
+            "category": "groceries",
+            "price": 9.99,
+            "discountPercentage": 10.46,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 20,
+            "title": "Cooking Oil",
+            "category": "groceries",
+            "price": 4.99,
+            "discountPercentage": 18.89,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 21,
+            "title": "Cucumber",
+            "category": "groceries",
+            "price": 1.49,
+            "discountPercentage": 11.44,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 22,
+            "title": "Dog Food",
+            "category": "groceries",
+            "price": 10.99,
+            "discountPercentage": 18.15,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 23,
+            "title": "Eggs",
+            "category": "groceries",
+            "price": 2.99,
+            "discountPercentage": 5.8,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 24,
+            "title": "Fish Steak",
+            "category": "groceries",
+            "price": 14.99,
+            "discountPercentage": 7,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 25,
+            "title": "Green Bell Pepper",
+            "category": "groceries",
+            "price": 1.29,
+            "discountPercentage": 15.5,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 26,
+            "title": "Green Chili Pepper",
+            "category": "groceries",
+            "price": 0.99,
+            "discountPercentage": 18.51,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 27,
+            "title": "Honey Jar",
+            "category": "groceries",
+            "price": 6.99,
+            "discountPercentage": 1.91,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 28,
+            "title": "Ice Cream",
+            "category": "groceries",
+            "price": 5.49,
+            "discountPercentage": 7.58,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 29,
+            "title": "Juice",
+            "category": "groceries",
+            "price": 3.99,
+            "discountPercentage": 5.45,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 30,
+            "title": "Kiwi",
+            "category": "groceries",
+            "price": 2.49,
+            "discountPercentage": 10.32,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 31,
+            "title": "Lemon",
+            "category": "groceries",
+            "price": 0.79,
+            "discountPercentage": 17.81,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 32,
+            "title": "Milk",
+            "category": "groceries",
+            "price": 3.49,
+            "discountPercentage": 15.09,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 33,
+            "title": "Mulberry",
+            "category": "groceries",
+            "price": 4.99,
+            "discountPercentage": 16.35,
+            "warrantyInformation": "3 months warranty"
+        },
+        {
+            "id": 34,
+            "title": "Nescafe Coffee",
+            "category": "groceries",
+            "price": 7.99,
+            "discountPercentage": 11.65,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 35,
+            "title": "Potatoes",
+            "category": "groceries",
+            "price": 2.29,
+            "discountPercentage": 4.05,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 36,
+            "title": "Protein Powder",
+            "category": "groceries",
+            "price": 19.99,
+            "discountPercentage": 1.58,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 37,
+            "title": "Red Onions",
+            "category": "groceries",
+            "price": 1.99,
+            "discountPercentage": 17.89,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 38,
+            "title": "Rice",
+            "category": "groceries",
+            "price": 5.99,
+            "discountPercentage": 12.02,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 39,
+            "title": "Soft Drinks",
+            "category": "groceries",
+            "price": 1.99,
+            "discountPercentage": 1.88,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 40,
+            "title": "Strawberry",
+            "category": "groceries",
+            "price": 3.99,
+            "discountPercentage": 19.59,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 41,
+            "title": "Tissue Paper Box",
+            "category": "groceries",
+            "price": 2.49,
+            "discountPercentage": 15.44,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 42,
+            "title": "Water",
+            "category": "groceries",
+            "price": 0.99,
+            "discountPercentage": 13.71,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 43,
+            "title": "Decoration Swing",
+            "category": "home-decoration",
+            "price": 59.99,
+            "discountPercentage": 0.65,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 44,
+            "title": "Family Tree Photo Frame",
+            "category": "home-decoration",
+            "price": 29.99,
+            "discountPercentage": 1.53,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 45,
+            "title": "House Showpiece Plant",
+            "category": "home-decoration",
+            "price": 39.99,
+            "discountPercentage": 19.45,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 46,
+            "title": "Plant Pot",
+            "category": "home-decoration",
+            "price": 14.99,
+            "discountPercentage": 0.19,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 47,
+            "title": "Table Lamp",
+            "category": "home-decoration",
+            "price": 49.99,
+            "discountPercentage": 0.59,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 48,
+            "title": "Bamboo Spatula",
+            "category": "kitchen-accessories",
+            "price": 7.99,
+            "discountPercentage": 4.85,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 49,
+            "title": "Black Aluminium Cup",
+            "category": "kitchen-accessories",
+            "price": 5.99,
+            "discountPercentage": 9.22,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 50,
+            "title": "Black Whisk",
+            "category": "kitchen-accessories",
+            "price": 9.99,
+            "discountPercentage": 16.87,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 51,
+            "title": "Boxed Blender",
+            "category": "kitchen-accessories",
+            "price": 39.99,
+            "discountPercentage": 7.36,
+            "warrantyInformation": "3 months warranty"
+        },
+        {
+            "id": 52,
+            "title": "Carbon Steel Wok",
+            "category": "kitchen-accessories",
+            "price": 29.99,
+            "discountPercentage": 5.89,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 53,
+            "title": "Chopping Board",
+            "category": "kitchen-accessories",
+            "price": 12.99,
+            "discountPercentage": 17.72,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 54,
+            "title": "Citrus Squeezer Yellow",
+            "category": "kitchen-accessories",
+            "price": 8.99,
+            "discountPercentage": 12.35,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 55,
+            "title": "Egg Slicer",
+            "category": "kitchen-accessories",
+            "price": 6.99,
+            "discountPercentage": 9.6,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 56,
+            "title": "Electric Stove",
+            "category": "kitchen-accessories",
+            "price": 49.99,
+            "discountPercentage": 16.64,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 57,
+            "title": "Fine Mesh Strainer",
+            "category": "kitchen-accessories",
+            "price": 9.99,
+            "discountPercentage": 2.56,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 58,
+            "title": "Fork",
+            "category": "kitchen-accessories",
+            "price": 3.99,
+            "discountPercentage": 14.36,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 59,
+            "title": "Glass",
+            "category": "kitchen-accessories",
+            "price": 4.99,
+            "discountPercentage": 7.38,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 60,
+            "title": "Grater Black",
+            "category": "kitchen-accessories",
+            "price": 10.99,
+            "discountPercentage": 3.29,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 61,
+            "title": "Hand Blender",
+            "category": "kitchen-accessories",
+            "price": 34.99,
+            "discountPercentage": 6.44,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 62,
+            "title": "Ice Cube Tray",
+            "category": "kitchen-accessories",
+            "price": 5.99,
+            "discountPercentage": 0.95,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 63,
+            "title": "Kitchen Sieve",
+            "category": "kitchen-accessories",
+            "price": 7.99,
+            "discountPercentage": 9.23,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 64,
+            "title": "Knife",
+            "category": "kitchen-accessories",
+            "price": 14.99,
+            "discountPercentage": 19.95,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 65,
+            "title": "Lunch Box",
+            "category": "kitchen-accessories",
+            "price": 12.99,
+            "discountPercentage": 15.33,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 66,
+            "title": "Microwave Oven",
+            "category": "kitchen-accessories",
+            "price": 89.99,
+            "discountPercentage": 18.73,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 67,
+            "title": "Mug Tree Stand",
+            "category": "kitchen-accessories",
+            "price": 15.99,
+            "discountPercentage": 15.21,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 68,
+            "title": "Pan",
+            "category": "kitchen-accessories",
+            "price": 24.99,
+            "discountPercentage": 6.55,
+            "warrantyInformation": "3 months warranty"
+        },
+        {
+            "id": 69,
+            "title": "Plate",
+            "category": "kitchen-accessories",
+            "price": 3.99,
+            "discountPercentage": 13.03,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 70,
+            "title": "Red Tongs",
+            "category": "kitchen-accessories",
+            "price": 6.99,
+            "discountPercentage": 18.24,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 71,
+            "title": "Silver Pot With Glass Cap",
+            "category": "kitchen-accessories",
+            "price": 39.99,
+            "discountPercentage": 4.57,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 72,
+            "title": "Slotted Turner",
+            "category": "kitchen-accessories",
+            "price": 8.99,
+            "discountPercentage": 7.24,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 73,
+            "title": "Spice Rack",
+            "category": "kitchen-accessories",
+            "price": 19.99,
+            "discountPercentage": 13.78,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 74,
+            "title": "Spoon",
+            "category": "kitchen-accessories",
+            "price": 4.99,
+            "discountPercentage": 0.93,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 75,
+            "title": "Tray",
+            "category": "kitchen-accessories",
+            "price": 16.99,
+            "discountPercentage": 9.93,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 76,
+            "title": "Wooden Rolling Pin",
+            "category": "kitchen-accessories",
+            "price": 11.99,
+            "discountPercentage": 16.94,
+            "warrantyInformation": "1 week warranty"
+        },
+        {
+            "id": 77,
+            "title": "Yellow Peeler",
+            "category": "kitchen-accessories",
+            "price": 5.99,
+            "discountPercentage": 17.09,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 78,
+            "title": "Apple MacBook Pro 14 Inch Space Grey",
+            "category": "laptops",
+            "price": 1999.99,
+            "discountPercentage": 9.25,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 79,
+            "title": "Asus Zenbook Pro Dual Screen Laptop",
+            "category": "laptops",
+            "price": 1799.99,
+            "discountPercentage": 9.21,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 80,
+            "title": "Huawei Matebook X Pro",
+            "category": "laptops",
+            "price": 1399.99,
+            "discountPercentage": 15.25,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 81,
+            "title": "Lenovo Yoga 920",
+            "category": "laptops",
+            "price": 1099.99,
+            "discountPercentage": 7.77,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 82,
+            "title": "New DELL XPS 13 9300 Laptop",
+            "category": "laptops",
+            "price": 1499.99,
+            "discountPercentage": 11.7,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 83,
+            "title": "Blue & Black Check Shirt",
+            "category": "mens-shirts",
+            "price": 29.99,
+            "discountPercentage": 1.41,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 84,
+            "title": "Gigabyte Aorus Men Tshirt",
+            "category": "mens-shirts",
+            "price": 24.99,
+            "discountPercentage": 12.6,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 85,
+            "title": "Man Plaid Shirt",
+            "category": "mens-shirts",
+            "price": 34.99,
+            "discountPercentage": 17.53,
+            "warrantyInformation": "Lifetime warranty"
+        },
+        {
+            "id": 86,
+            "title": "Man Short Sleeve Shirt",
+            "category": "mens-shirts",
+            "price": 19.99,
+            "discountPercentage": 8.65,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 87,
+            "title": "Men Check Shirt",
+            "category": "mens-shirts",
+            "price": 27.99,
+            "discountPercentage": 14.21,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 88,
+            "title": "Nike Air Jordan 1 Red And Black",
+            "category": "mens-shoes",
+            "price": 149.99,
+            "discountPercentage": 15.82,
+            "warrantyInformation": "1 year warranty"
+        },
+        {
+            "id": 89,
+            "title": "Nike Baseball Cleats",
+            "category": "mens-shoes",
+            "price": 79.99,
+            "discountPercentage": 11.4,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 90,
+            "title": "Puma Future Rider Trainers",
+            "category": "mens-shoes",
+            "price": 89.99,
+            "discountPercentage": 3.64,
+            "warrantyInformation": "2 year warranty"
+        },
+        {
+            "id": 91,
+            "title": "Sports Sneakers Off White & Red",
+            "category": "mens-shoes",
+            "price": 119.99,
+            "discountPercentage": 11.69,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 92,
+            "title": "Sports Sneakers Off White Red",
+            "category": "mens-shoes",
+            "price": 109.99,
+            "discountPercentage": 17.22,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 93,
+            "title": "Brown Leather Belt Watch",
+            "category": "mens-watches",
+            "price": 89.99,
+            "discountPercentage": 15.01,
+            "warrantyInformation": "3 months warranty"
+        },
+        {
+            "id": 94,
+            "title": "Longines Master Collection",
+            "category": "mens-watches",
+            "price": 1499.99,
+            "discountPercentage": 0.64,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 95,
+            "title": "Rolex Cellini Date Black Dial",
+            "category": "mens-watches",
+            "price": 8999.99,
+            "discountPercentage": 14.28,
+            "warrantyInformation": "5 year warranty"
+        },
+        {
+            "id": 96,
+            "title": "Rolex Cellini Moonphase",
+            "category": "mens-watches",
+            "price": 12999.99,
+            "discountPercentage": 5.7,
+            "warrantyInformation": "3 year warranty"
+        },
+        {
+            "id": 97,
+            "title": "Rolex Datejust",
+            "category": "mens-watches",
+            "price": 10999.99,
+            "discountPercentage": 9.69,
+            "warrantyInformation": "6 months warranty"
+        },
+        {
+            "id": 98,
+            "title": "Rolex Submariner Watch",
+            "category": "mens-watches",
+            "price": 13999.99,
+            "discountPercentage": 0.82,
+            "warrantyInformation": "No warranty"
+        },
+        {
+            "id": 99,
+            "title": "Amazon Echo Plus",
+            "category": "mobile-accessories",
+            "price": 99.99,
+            "discountPercentage": 16.3,
+            "warrantyInformation": "1 month warranty"
+        },
+        {
+            "id": 100,
+            "title": "Apple Airpods",
+            "category": "mobile-accessories",
+            "price": 129.99,
+            "discountPercentage": 4.82,
+            "warrantyInformation": "No warranty"
+        }
+    ]
+}
